@@ -1,17 +1,19 @@
 ### Hi, I'm Hanna 👋
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HannaV01)
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](hannavalmira@gmail.com)
 
-Welcome to my Github page! I am Hanna a progamer student!
-<img align="right" alt="img" src="https://user-images.githubusercontent.com/70272455/114932100-b772b700-9dfc-11eb-8708-a3766130cc2c.jpg" width="50%" height="auto" />
+#### Welcome to my Github page! I'm a programming student!
+#### I love the cats and cute drawings of the cats.
 
+#### Things I am currently working on: 
+-I work on programming web pages as well as doing it for fun although I don't know if you can say that jsjsjs.
 
-#### 🌱 Things I am currently working on: 
-
-
-
-#### :computer: Programming languages and tools: 
-
-
+#### Programming languages: 
+-HTML
+-CSS
+-JAVA
+#### Programming languages I want to learn:
+-Pyton
+-PHP
