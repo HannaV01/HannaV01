@@ -1,7 +1,6 @@
 ### Hi, I'm Hanna 👋
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HannaV01)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](hannavalmira@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/HannaVoices)
 #### Welcome to my Github page! I'm a programming student!
 #### I love the cats and cute drawings of the cats.
