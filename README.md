@@ -8,7 +8,7 @@
 
 #### Things I am currently working on: 
 
-- I work on programming web pages .
+- 
 
 #### Programming languages: 
 - 
